@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sati224
-- 👀 I’m interested in learning languages, gardening and traveling
+- 👀 I’m interested in learning languages and traveling around the world
 - 🌱 I’m currently learning JavaScript, React and Algorithms
 - 📫 How to reach me kg.girl.in.tech@gmail.com
 
