@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sati224
 - 👀 I’m interested in learning languages and traveling around the world
 - 🌱 I’m currently learning JavaScript, React and Algorithms
-- 📫 How to reach me azi.sati.7@gmail.com
+- 📫 How to reach me  satieva.a.k@gmail.com
 
 <!---
 sati224/sati224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
